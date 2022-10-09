@@ -1,0 +1,72 @@
+{
+  "accept_request": {
+    "thanks": "DANKE, DASS SIE SICH ERREICHEN!",
+    "description": "Sie werden benachrichtigt, wenn der andere Teilnehmer Ihre Verbindung akzeptiert!",
+    "btn": "Zurück zum Feed"
+  },
+  "details": {
+    "num_quantity": "Zahl der Bedürftigen",
+    "adults": "Erwachsene",
+    "children": "Kinder",
+    "infants": "Kleinkinder",
+    "from": "Aus",
+    "to": "Zu",
+    "meeting_location": "Treffpunkt",
+    "description": "Beschreibung",
+    "contacts": "Wählen Sie aus, wie Sie kontaktiert werden möchten",
+    "acceptBtn": "Klicken Sie auf Hilfe",
+    "warning": "WARNUNG",
+    "beware": "Achten Sie auf Ihre Sicherheit! Ihre Sicherheit geht vor. Hüten Sie sich vor Betrügern und Kriminellen.",
+    "be_responsible": "Wenn Sie unsere HELP-App verwenden, werden Sie direkt von anderen Parteien kontaktiert. HELP kann die Echtheit der Hilfeangebote und -gesuche nicht überprüfen. Wir empfehlen Ihnen, angemessene Schritte zu unternehmen, um die Legitimität der anderen Partei zu überprüfen und sich nicht täuschen zu lassen. Wir können und werden die Benutzer unserer App nicht validieren oder recherchieren.",
+    "tips": "Klicken Sie <1>hier</1>, um einige hilfreiche Tipps zu erhalten.",
+    "continue": "Klicken Sie auf „Weiter“, um fortzufahren, oder auf „Abbrechen“, um zurückzugehen.",
+    "continueBtn": "Fortsetzen",
+    "cancelBtn": "Absagen",
+    "preferred_contacts": "Bevorzugte Art der Kontaktaufnahme"
+  },
+  "empty": {
+    "no_request_msg": "Es liegen keine Anfragen vor",
+    "post_request_msg": "Stellen Sie eine Anfrage oder kommen Sie später wieder."
+  },
+  "card": {
+    "away": " ein Weg",
+    "requesting_travel": " weg, bittet um Reise",
+    "repost": "Erneut veröffentlichen"
+  },
+  "new": {
+    "request": "Anfrage",
+    "requesting_for": "Ich bitte um ...",
+    "title": "Titel",
+    "quantity": "Menge",
+    "expired": "Ablaufdatum der Auflistung",
+    "3d": "3 Tage",
+    "5d": "Fünf Tage",
+    "1wk": "Eine Woche",
+    "location_tip": "Ort eingeben",
+    "preferred_location": "Bevorzugter Standort",
+    "your_location": "Ihr Standort",
+    "submitBtn": "Einreichen",
+    "next": "Nächste",
+    "current_selected": "Aktuell ausgewählt:",
+    "AI_detect": "<2>Automatische KI-Erkennung vorhanden</2>, geben Sie mindestens <2>10 Wörter</2> zur Erkennung ein",
+    "AI_suggest_cat": "Vorgeschlagene KI-Kategorie:",
+    "AI_pending": "Ausstehender KI-Vorschlag ...",
+    "AI_suggest_title": "AI Vorgeschlagener Titel:",
+    "current_location": "Aktueller Standort?",
+    "select_category": "Bitte wählen Sie eine Kategorie aus!"
+  },
+  "types": {
+    "medical": "Medizinisch",
+    "accommodation": "Unterkunft",
+    "transport": "Transport",
+    "food": "Essen"
+  },
+  "created": {
+    "success_msg": "ANFRAGE ERFOLGREICH!",
+    "help_arrive": "Hilfe kommt bald!!"
+  },
+  "delete": {
+    "msg": "Möchten Sie diese Anfrage wirklich löschen?",
+    "deleteBtn": "Löschen"
+  }
+}

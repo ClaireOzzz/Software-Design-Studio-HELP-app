@@ -1,0 +1,27 @@
+.option-wrapper{
+    display: grid; 
+    grid-template-columns: 0.5fr 0.5fr;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.option-card{
+    padding: 5px; 
+    border-radius: 5px;
+    text-align: center;
+    line-height: 25px;
+    margin: 5px;
+    font-size: 0.8rem;
+    height: 35px;
+    background-color: #FFD9C0;
+    cursor: pointer;
+}
+
+.option-text{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    color: #D22108;
+    font-weight: bold;
+}
