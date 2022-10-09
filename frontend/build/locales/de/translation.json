@@ -1,0 +1,69 @@
+{
+  "navbar": {
+    "feed": "Einspeisung",
+    "map": "Karte",
+    "deceased": "Verstorben",
+    "profile": "Profil",
+    "other": "Sonstiges"
+  },
+  "other": {
+    "education": "Ausbildung",
+    "volunteer": "Freiwillige",
+    "donate": "Spenden",
+    "employment": "Beschäftigung",
+    "moreInfo": "Mehr Informationen",
+    "counselling & coaching": "Beratung & Coaching"
+  },
+  "loading": "Wird geladen...",
+  "back": "DER RÜCKEN",
+  "setting": {
+    "settings": "Einstellungen",
+    "preferences": "Einstellungen",
+    "language": "Sprache",
+    "sel_lang": "Wähle eine Sprache"
+  },
+  "nothing": "Hier ist nichts!",
+  "empty_request": "Es ist leer!",
+  "search": {
+    "search_txt": "Suche",
+    "tip": "Geben Sie hier ein",
+    "proximity": "Nähe",
+    "suggest_cat": "Vorgeschlagene Kategorien",
+    "food": "Essen",
+    "transport": "Transport",
+    "accommodation": "Unterkunft",
+    "medical": "Medizinisch"
+  },
+  "profile": {
+    "help_requested": "Hilfe erbeten",
+    "help_offered": "Hilfe angeboten",
+    "status": "Status",
+    "pending": "Ausstehend",
+    "accepted": "Akzeptiert",
+    "completed": "Abgeschlossen",
+    "expired": "Abgelaufen",
+    "request_pending": "Ihre ausstehenden Anfragen",
+    "waiting_accept": "Warten darauf, dass Sie das Angebot annehmen",
+    "request_expired": "Ihre abgelaufenen Anfragen",
+    "request_complete": "Erfolgreich mit Spender verbunden",
+    "waiting_connect": "Warten auf Verbindung des Anfragenden",
+    "request_accept": "Anfragen, die Sie akzeptiert haben",
+    "fail_connect": "Requester konnte keine Verbindung herstellen"
+  },
+  "noti": {
+    "contacts": "Herzliche Glückwünsche! Sie sind jetzt mit @ {{username}} verbunden. Sie erreichen ihn/sie über:",
+    "empty": "Zur Zeit keine Benachrichtigungen...",
+    "accept": "Annehmen",
+    "decline": "Abfall",
+    "accepted": "Akzeptiert",
+    "rejected": "Abgelehnt",
+    "help": "HILFE {{popUpStatus}} !",
+    "archived_msg": "Wir haben Ihre Anfrage archiviert. Gehen Sie zu Profil > Meine Anfragen > {{popUpStatus}} , wenn Sie es erneut veröffentlichen möchten.",
+    "ok": "OK",
+    "notification": "Benachrichtigung",
+    "view_all_offers": "Alle Angebote anzeigen",
+    "no_noti": "Keine Benachrichtigungen.",
+    "contact_details": "Kontaktdetails",
+    "no_contact": "Keine Kontakte."
+  }
+}

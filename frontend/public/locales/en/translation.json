@@ -1,0 +1,87 @@
+{
+  "navbar": {
+    "feed": "Feed",
+    "map": "Map",
+    "deceased": "Deceased",
+    "profile": "Profile",
+    "other": "Other"
+  },
+  "other": {
+    "education": "Education",
+    "volunteer": "Volunteer",
+    "donate": "Donate",
+    "employment": "Employment",
+    "moreInfo": "More Information",
+    "counselling & coaching": "Counselling & coaching"
+  },
+  "loading": "Loading...",
+  "back": "BACK",
+  "setting": {
+    "settings": "Settings",
+    "preferences": "Preferences",
+    "language": "Language",
+    "sel_lang": "Select A Language",
+    "logout": "Logout"
+  },
+  "nothing": "There's nothing here!",
+  "empty_request": "It's empty!",
+  "search": {
+    "search_txt": "Filter",
+    "tip": "Type here",
+    "proximity": "Proximity",
+    "suggest_cat": "Suggested Categories",
+    "food": "Food",
+    "transport": "Transport",
+    "accommodation": "Accommodation",
+    "medical": "Medical"
+  },
+  "profile": {
+    "help_requested": "Help Requested",
+    "help_offered": "Help Offered",
+    "status": "Status",
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "completed": "Completed",
+    "expired": "Expired",
+    "request_pending": "Your pending requests",
+    "waiting_accept": "Waiting for you to accept offer",
+    "request_expired": "Your expired requests",
+    "request_complete": "Successfully connected with donor",
+    "waiting_connect": "Waiting for requester to connect",
+    "request_accept": "Requests you have accepted",
+    "fail_connect": "Requester failed to connect"
+  },
+  "noti": {
+    "contacts": "Congratulations! You're now connected with @{{username}}. You may contact him/her via: ",
+    "empty": "No notifications at the moment...",
+    "accept": "Accept",
+    "decline": "Decline",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "help": "HELP {{popUpStatus}}!",
+    "archived_msg": "Go to <1>Profile > Help Requested > Completed</1> to view your completed requests.",
+    "ok": "OK",
+    "notification": "Notification",
+    "view_all_offers": "View All Offers",
+    "no_noti": "No Notifications.",
+    "contact_details": "Contact Details",
+    "no_contact": "No Contacts."
+  },
+  "maps": {
+    "page_title": "Detect Mines",
+    "selected_file": "File selected: ",
+    "select_file": "Take a photo or Select one from gallery",
+    "err_msg": "Error detecting object! Please try with another image or try again later.",
+    "reupload": "Reupload",
+    "detect": "Detect",
+    "upload": "Upload",
+    "close": "Close"
+  },
+  "languages": {
+    "english": "English",
+    "german": "German",
+    "greek": "Greek",
+    "russian": "Russian",
+    "ukrainian": "Ukrainian"
+  }
+}
