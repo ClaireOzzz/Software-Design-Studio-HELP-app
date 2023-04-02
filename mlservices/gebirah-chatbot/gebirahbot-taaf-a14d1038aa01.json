@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "gebirahbot-taaf",
-  "private_key_id": "a14d1038aa01f40147504ded47b01adea7b3b542",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoJay2JgDOnFXR\nrmBhJOj6kr69/EUD6U+FxAo2sotDMafCurB+3Nm1UyX047XWKKRsuFNikz1Vuh6C\nFt0pzCdpCKLdJ+QyTGabMTBACdCmDoZW4qhOEDnuOjoz1F3KNjcjl8rdKDmNLFBM\nbBgsljwBtEp66Obc68luOsVpBGaLf637d12XoTOX2+DXZFqdexCqzmuIocHvNwqf\nDSQ6njjqnon8tP9mTI5Z/ibFKj1ujJaJGbTKUT7HlGkU3+VSkZ3iVKxLQ14x8ZOw\nOXzzmFacug6/CiXN9bkz+rL04qFc6c4X7p85kFB6lCRaZYb+z3pXxeRyJey1Rd3c\nLNk+QFS1AgMBAAECggEAJCp2S3dBFS9rBf6LnFlkAwEtJY/tCDpWcF8KE1mzunAj\ntS6SZ7b43JdVwqZ3peh39SpwRPOGbbnqdfCVATh4AY9p+EdsPaVRLHAYAK4bwpu9\nKVL3AFNdInBDtIIo6iVfFri/WXIdbs/pNYbKbEyj+3nbyzPs8/eDC8J4U24u4DHs\nwwI5ZLSF3ufweuFZMCasiJBCVmeTVhkncEYXzeEvMMTkL2sKkjmmL5gZ1bYDX8DB\nQoDYLP9PfqbakOMyGU98a6p7FEFgBozrh5BZj2RCHZY823NHEfD7UafG9FvL+7bG\nVonrSwADKcidV0LQrwOdkRhoyNSEplLA68FkvRvsAQKBgQDb7dRTlL2UDT/5Rx/g\nlJatxirnr8RcBkO2og/a10BwxA2Tz9JkYHNZsPAEldQkUfSknSElnK/0oOrH7sPD\nBXAYzM6oZrPHaP0KTTeWJWocwVh9p8JGs5HkoObUaXM5re3bXDTro3QN1mKnf/5M\nc9GhIyGE7P+ZCEzNe0eTCv/GRQKBgQDDua2QtsuaihFPP75yKXCBavHF+mRXIfe7\nQ1q01IdjSMfKgp64IWB2dDNybKa2ypNHAJBWjfddXcHe5s3p/hCP7G0xiWIuUr69\n5myGDB0N8i9lw5dxwCoOD64CpYmNCCRNJvG//e6sO/PBbph7mXFFNyYVHAJXQZ1m\naru2ZA6zsQKBgQDZoxMY2vp4BlymfGHpRmGN+ar/t4pjXrenhdyWvahBb2HYQjJ7\nro631UbP4s0aXBfyxqPEqrfdJ1jvHTKQTVNO124ya9/Al/7AMQWvCbtmVVcSke7J\nNG5Nh4Sl8uxZyeq1xxt/jDMOdncONrUaRwrNoQxMlJOjhvkp5rM/qgTO2QKBgQC7\nMJ8uE5WAtOG/MJDdMILYU8bt+P70UplS8SUUY1sk+puSNADGy60tPQ9jNUTw96eJ\ntaFWFqrpEd10aLuxOfrvG0iHowRSl3Kzvmg2f+ldyC3Knxj9grL2Bcr/3wBB8PJ/\nE2sMmzkkYqZLbpHJTESH1SnH8KTQfQGjzRrAYsuo0QKBgFFHsHWjxDRWiRwMj0B3\nDFzyoPH+3oObhHUDxTz9wp1SNww28EEqtGvKJqgmmPJhC9RTXY9TMgZZBTskagEO\nLIpSP1xo9t1p0Ib7FNx/KTY13GONcvgDzEn6tVRk4gnjftDqo5RCK9B9eLf98D/h\nxJWmJEa+biGu5AGNNE8eI+MP\n-----END PRIVATE KEY-----\n",
-  "client_email": "gebirahbot@gebirahbot-taaf.iam.gserviceaccount.com",
-  "client_id": "111795219929187931798",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gebirahbot%40gebirahbot-taaf.iam.gserviceaccount.com"
+  "private_key_id": //removed for security,
+  "private_key": "-----BEGIN PRIVATE KEY-----//removed for security-----END PRIVATE KEY-----\n",
+  "client_email": "//removed for security",
+  "client_id": "//removed for security",
+  "auth_uri": "//removed for security",
+  "token_uri": "//removed for security",
+  "auth_provider_x509_cert_url": "//removed for security",
+  "client_x509_cert_url": "//removed for security"
 }
