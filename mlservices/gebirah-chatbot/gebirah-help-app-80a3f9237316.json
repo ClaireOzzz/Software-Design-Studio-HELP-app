@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "gebirah-help-app",
-  "private_key_id": "80a3f9237316c51dcf1e43d52304bdcd5dc32973",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCQoTP6Fc3P4V1u\nXQ/nOZM5/noHqkzLvxcuIdH2vfDJUzdmuHd/g5hku9tztKHkpnkJzo8mvYm3vF9r\nooDklqdWHAwr3J5yz8+MIoLodZUL/07VeoLVSlG+PF/k8XaDAmTVeIILXO0aVuG2\nvmcSfE0tazjPf7eGHfWA44O7Nz1CzukX2lMuLhZ88ESuZ/TmtzLoIs6uWjRi+/nX\nP8MgczpMwcpdqMJONAb8IsUevwYq277vJi97Af3ERPERbLHIWgxctsBg4T2+OjZO\nGqNXjvT56CVsJj8AO9TN5s6syJ6nIOGdx9llgcd/pzl5N9G9UgWsRImgl2R0H2l6\nDKPmOVzfAgMBAAECggEAFqRmErzfH7BUhDalirmExwuD5zdOFoewBVTeHhbWX25b\nugUfECN19C9Ex/R7c+RsBpED8Di0GsOu3JbwPtknEWAKt8MuOyM1hubQP7xIvTwX\nB2zKlsGv0mx5RspWl2QEjTb0hPrjU8BOTeG5GTfEjVu/5RxFiwWdrbPwp5qaSJ8H\nqUPCT6VhgkWogNC0g5aSRVZDHDRpuqBPGNfjEmUgOBT8y8zBOaPJkiMl18r74QCk\nJHUaA+fxOlcdb8o3/JLdSdGQ24M21hkHtJcm6h72RQNhPWswqzWa9GeQQLRjtc9e\nfrquH/Tb3xoZtp7NTR/6DJWi48BwNH7hQZuzOf5a4QKBgQDIzbLJADBgsKzQJK3F\nk9S9xyFDrZrBWlm/BHWJBRgkwKJHDkrBoi8ybh4zUs4r0Rrs6v6gEVgnQLsH5Uez\nhe+YP3TJ+Aj+k9MIwVG6YBzoui2YZakjBbZ2pYS1rW7HcTo9yhocUlGNOTk1t2Dk\noWGqikqRZ3cb6M+vCQhXh5iSPQKBgQC4Yp8EWxxSTQhmtAO1QT3usZw6zEMkz36O\nbmlRgQ1e37rJpygun1GAEldogPdywNa/uXgkGN9OH4aF5Mrf8uZdcQXQKETgN+FL\nWemoj4Bo9+1+u7lW5005LgJeQWfnH93zBQ2Htpg6k1SLRkSdKscoN9dzP4fIRXiB\nPbFwdPHpSwKBgQDDZUX/yStKKyE+OTLO+5ccRFTeImRgmaaS9afZeReRS9GdCw87\ndLIwhG7mykDM6mElAVZcNARvzdExUa5/xmjq4XSnw7Ac6YOFFXiNv1DiNaiAjwwS\nhFCVC2Mj1mvhrxBZZ/wYaxHoNjKxTov+bfs3k/ITo3aHtffB/ywa4FtakQKBgGRO\nIjt4ZRvQlDVq0GmWKF7leBv0asJnrm1FWz3feqqWA0MYEB/sw6VsVOig3/wpM6nw\n946LiU8yjzffkw3pUbCbf5IRlgZz37fiHd540l5IIYbEELtZ8QSeJuOnqSJuj4tY\nwFeH2aBj7aYmf8UQNG+IkUg801z7jeag7RpERCWpAoGBAKdr7sfIedS+Rb+2WII6\nnRaoZ/ulAG8W4JO2xgjdoGMyMSE8MeEMjH5eWBlPm7+gj9YTVQ2qs0xKa02+2Fmo\nwnX8qSxymxQbUGuQ4tXCmaO7eN6UJz1RQp3mevFORMILzbSDKltZfXiFIDWk+N6Y\nXp8RxaEwNlxDA4GYJDzvzYmg\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "//removed for security",
+  "private_key": "-----BEGIN PRIVATE KEY-----//removed for security-----END PRIVATE KEY-----\n",
   "client_email": "gebirah-help-app-chatbot@gebirah-help-app.iam.gserviceaccount.com",
-  "client_id": "101701314755405303352",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gebirah-help-app-chatbot%40gebirah-help-app.iam.gserviceaccount.com"
+  "client_id": "//removed for security",
+  "auth_uri": "//removed for security",
+  "token_uri": "//removed for security",
+  "auth_provider_x509_cert_url": "//removed for security",
+  "client_x509_cert_url": "//removed for security"
 }
